@@ -6,7 +6,7 @@
 
 Panda Light
 
-![Panda Theme Vivid](./assets/preview-Vivid.jpg)
+![Panda Theme Vivid](./assets/preview-vivid.jpg)
 
 Panda Vivid
 
